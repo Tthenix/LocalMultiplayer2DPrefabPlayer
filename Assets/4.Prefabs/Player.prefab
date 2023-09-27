@@ -154,3 +154,5 @@ MonoBehaviour:
   prefabs:
   - {fileID: 1798025610957828481, guid: a15a04cdb74eed940861cd680599c4cb, type: 3}
   - {fileID: 1798025610957828481, guid: a38225cb8b7c69c4e89fe4e776fcd59f, type: 3}
+  playerSpawnLeft: {fileID: 1967040596692560984, guid: e06b5e9f237f95b4093f54fae0c3a685, type: 3}
+  playerSpawnRight: {fileID: 3656071034290638861, guid: 449538ba2bebee84b81a113e10a7fd34, type: 3}
