@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 17774838100671605}
   - component: {fileID: 1895337887132210431}
   m_Layer: 0
-  m_Name: Player
+  m_Name: PlayerController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -156,3 +156,4 @@ MonoBehaviour:
   - {fileID: 1798025610957828481, guid: a38225cb8b7c69c4e89fe4e776fcd59f, type: 3}
   playerSpawnLeft: {fileID: 1967040596692560984, guid: e06b5e9f237f95b4093f54fae0c3a685, type: 3}
   playerSpawnRight: {fileID: 3656071034290638861, guid: 449538ba2bebee84b81a113e10a7fd34, type: 3}
+  index: 1
